@@ -22,7 +22,6 @@
 -->
 - 💬 Ask me about **Website design and development**
 
-- 📫 How to reach me **abdullahalfakeeh2@gmail.com**
 <!--
 - 📄 Know about my experiences [AbdullahAbdul](AbdullahAbdul)
 -->
