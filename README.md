@@ -17,14 +17,14 @@
 - I’m looking to collaborate on **Design, programming and marketing projects**
 
 - 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
-<!--
-- 👨‍💻 All of my projects are available at [AbdullahAbdul](AbdullahAbdul)
--->
+
+- 👨‍💻 All of my projects are available at abdullah-abdulkhaleq.web.app
+
 - 💬 Ask me about **Website design and development**
 
-<!--
-- 📄 Know about my experiences [AbdullahAbdul](AbdullahAbdul)
--->
+
+- 📄 Know about my experiences abdullah-abdulkhaleq.web.app
+
 - ⚡ Fun fact **teamwork ✌️**
 
 <h3 align="left">Connect with me:</h3>
@@ -58,27 +58,12 @@
     <a href="https://github.com/AbdullahAbdulkhaleq/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/github.svg" alt="github" width="65" height="65"/> 
     </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/php.svg" alt="php" width="65" height="65"/> 
-    </a> 
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/laravel.svg" alt="laravel" width="65" height="65"/> 
-    </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/linux.svg" alt="linux" width="65" height="65"/> 
     </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/mysql.svg" alt="mysql" width="65" height="65"/> 
-    </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/oracle.svg" alt="oracle" width="65" height="65"/> 
-    </a>  
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/png/microsoft-sql-server.png" alt="oracle" width="65" height="65"/> 
     </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/Photoshop.svg" alt="photoshop" width="65" height="65"/> 
-    </a>  
     <!--
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="" alt="react" width="40" height="40"/> 
