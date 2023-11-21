@@ -18,12 +18,12 @@
 
 - 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
 
-- 👨‍💻 All of my projects are available at <a href="https://abdullah-abdulkhaleq.web.app/" target="_blank" style="text-decoration: none"> My projects <a/>
+- 👨‍💻 All of my projects are available at [My projects](https://abdullah-abdulkhaleq.web.app/)
 
 - 💬 Ask me about **Website design and development**
 
 
-- 📄 Know about my experiences <a href="https://abdullah-abdulkhaleq.web.app/" target="_blank" style="text-decoration: none"> My experiences <a/>
+- 📄 Know about my experiences [My experiences](https://abdullah-abdulkhaleq.web.app/)
 
 - ⚡ Fun fact **teamwork ✌️**
 
