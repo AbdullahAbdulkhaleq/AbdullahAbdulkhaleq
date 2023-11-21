@@ -18,23 +18,23 @@
 
 - 🤝 I’m looking for help with **helps you as a businessman to focus on your company’s profits and take over the functions of your business.**
 
-- 👨‍💻 All of my projects are available at a <a href="abdullah-abdulkhaleq.web.app"> My projects <a/>
+- 👨‍💻 All of my projects are available at a <a href="https://abdullah-abdulkhaleq.web.app/"> My projects <a/>
 
 - 💬 Ask me about **Website design and development**
 
 
-- 📄 Know about my experiences <a href="abdullah-abdulkhaleq.web.app"> My experiences <a/>
+- 📄 Know about my experiences <a href="https://abdullah-abdulkhaleq.web.app/"> My experiences <a/>
 
 - ⚡ Fun fact **teamwork ✌️**
 
 <h3 align="left">Connect with me:</h3>
     
-<p align="left">
+<p align="left">  
+    <a href="mailto:abdullah-abdulkhaleq@outlook.com" target="_blank">
+        <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/Gmail.svg" alt="email" height="40 width="50/>
+    </a>
     <a href="https://codepen.io/AbdullahAbdulkhaleq" target="_blank">
         <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/codepen.svg" alt="AbdullahAbdulkhaleq" height="40 width="50/>
-    </a>
-    <a href="mailto:abdullah-abdulkhaleq@outlook.com" target="_blank">
-        <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/Gmail Logo.svg" alt="email" height="40 width="50/>
     </a>
  </p>
 
