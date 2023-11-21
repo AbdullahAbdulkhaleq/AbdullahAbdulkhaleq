@@ -31,7 +31,7 @@
     
 <p align="left">  
     <a href="mailto:abdullah-abdulkhaleq@outlook.com" target="_blank">
-        <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/Gmail.svg" alt="email" height="40 width="50/>
+        <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/Gmail.svg" alt="email"/>
     </a>
     <a href="https://codepen.io/AbdullahAbdulkhaleq" target="_blank">
         <img align="center" src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/codepen.svg" alt="AbdullahAbdulkhaleq" height="40 width="50/>
