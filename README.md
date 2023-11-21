@@ -43,6 +43,9 @@
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/CSharp.svg" alt="csharp" width="65" height="65"/> 
     </a>
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/png/microsoft-sql-server.png" alt="oracle" width="65" height="65"/> 
+    </a> 
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/html5.svg" alt="html5" width="65"height="65"/> 
     </a> 
@@ -60,9 +63,6 @@
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/svg/linux.svg" alt="linux" width="65" height="65"/> 
-    </a> 
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://github.com/AbdullahAbdulkhaleq/Icons/blob/main/png/microsoft-sql-server.png" alt="oracle" width="65" height="65"/> 
     </a> 
     <!--
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
