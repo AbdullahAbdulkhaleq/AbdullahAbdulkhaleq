@@ -71,11 +71,11 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahAbdulkhaleq&show_icons=true&locale=en&layout=compact" alt="AbdullahAbdulkhaleq" height="200" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahAbdulkhaleq&show_icons=true&locale=en&layout=compact" alt="AbdullahAbdulkhaleq" height="180" />
 </p>
 
 <p>
-    <img  align="right" src="https://github-readme-stats.vercel.app/api?username=AbdullahAbdulkhaleq&show_icons=true&locale=en&layout=compact"  alt="AbdullahAbdulkhaleq" height="200" />
+    <img  align="right" src="https://github-readme-stats.vercel.app/api?username=AbdullahAbdulkhaleq&show_icons=true&locale=en&layout=compact"  alt="AbdullahAbdulkhaleq" height="180" />
 </p>
 
 <p> 
